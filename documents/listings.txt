@@ -1,0 +1,700 @@
+listings = [
+  {
+    order: 0,
+    type: 'museum',
+    _id: '64d18a5df683efc833774bb8',
+    description: '<p>Inaugurated in 1950, Oslo City Hall is the city&#39;s administrative body and the seat of the City Council.<br>\n<br>\nThe building has been decorated by great Norwegian art from 1900-1950, with motifs from Norwegian history, culture and working life.<br>\n<br>\nCarillon concerts on the first Saturday&nbsp;every month at 11am, in June, July and August every Sunday at 3pm.</p>\n\n<p>On certain days, the City&nbsp;Hall is closed to visitors. You can find more information about this on the <a href="https://www.oslo.kommune.no/radhuset/radhusets-apningstider/">municipality&#39;s website (in Norwegian)</a>.<br>\n<br>\nNorwegian name: <em>Oslo r&aring;dhus</em></p>',
+    city: 'Oslo',
+    recid: 3126,
+    categories: [
+      {
+        primary: true,
+        subcatid: 160,
+        subcatname: 'Buildings & Monuments',
+        catname: 'Attraction & Culture',
+        catid: 110
+      },
+      {
+        primary: false,
+        subcatid: 226,
+        subcatname: 'Sightseeing',
+        catname: 'Tours & Sightseeing',
+        catid: 118
+      },
+      {
+        primary: false,
+        subcatid: 228,
+        subcatname: 'Tourist Information',
+        catname: 'Tourist Information',
+        catid: 119
+      }
+    ],
+    listingudfs_object: {
+      '44': {
+        listid: 2019,
+        name: 'Destination',
+        value: 'Oslo',
+        digits: 0,
+        fieldid: 44,
+        typeid: 7,
+        type: 'Dropdown',
+        value_raw: {
+          listid: 2019,
+          value: 'Oslo'
+        },
+        value_string: 'Oslo'
+      }
+    },
+    title: 'Oslo City Hall',
+    loc: {
+      type: 'Point',
+      coordinates: [
+        10.73381,
+        59.91221
+      ]
+    },
+    primarycatid: 110,
+    id: '64d18a5df683efc833774bb8',
+    detailURL: '/listings/oslo-city-hall/3126/',
+    genericUrl: '/listings/oslo-city-hall/3126/',
+    url: '/listings/oslo-city-hall/3126/',
+    absolute_url: 'https://www.visitnorway.com/listings/oslo-city-hall/3126/',
+    isListing: true,
+    longitude: 10.73381,
+    latitude: 59.91221,
+    hasTripAdvisor: false,
+    hasYelp: false,
+    isVisible: true
+  },
+  {
+    order: 1,
+    type: 'museum',
+  _id: '64d18a32f683efc8337740db',
+    description: '<p>Tanum church is one of two medieval churches in B&aelig;rum, built in around 1100-1130. It is a Romanesque church, with frescoes from the 1300s, and medieval sculptures. In 1674, the Krefting family built a sacristy with burial chambers beneath it on the north side of the chancel. However, this soon became too small, and in 1713 a larger burial chapel was built on the north side of the church, wall to wall with the sacristy. In total, around 40 members of the family were laid to rest in these two tombs. The church was expanded in 1722 and restored in the 1970s. The church has capacity for 250 persons. Tanum church is located along the medieval road, which went from Oslo through B&aelig;rum to Asker church and on to Lier, and has been a popular subject for many artists.</p>\n\n<p>&nbsp;</p>\n\n<p><em>Member of Visit Greater Oslo</em></p>',
+      city: 'Bærum',
+        recid: 282,
+          categories: [
+            {
+              primary: true,
+              subcatid: 160,
+              subcatname: 'Buildings & Monuments',
+              catname: 'Attraction & Culture',
+              catid: 110
+            }
+          ],
+            listingudfs_object: {
+    '44': {
+      listid: 827,
+        name: 'Destination',
+          value: 'Slependen',
+            digits: 0,
+              fieldid: 44,
+                typeid: 7,
+                  type: 'Dropdown',
+                    value_raw: {
+        listid: 827,
+          value: 'Slependen'
+      },
+      value_string: 'Slependen'
+    }
+  },
+  title: 'Tanum church',
+    loc: {
+    type: 'Point',
+      coordinates: [
+        10.47969,
+        59.89509
+      ]
+  },
+  primarycatid: 110,
+    id: '64d18a32f683efc8337740db',
+      detailURL: '/listings/tanum-church/282/',
+        genericUrl: '/listings/tanum-church/282/',
+          url: '/listings/tanum-church/282/',
+            absolute_url: 'https://www.visitnorway.com/listings/tanum-church/282/',
+              isListing: true,
+                longitude: 10.47969,
+                  latitude: 59.89509,
+                    hasTripAdvisor: false,
+                      hasYelp: false,
+                        isVisible: true
+},
+{
+  order: 2,
+  type: 'museum',
+    _id: '64d18db0f683efc833785136',
+    description: '<p><strong>Veien Cultural Heritage Park - get to know the Viking forefathers.</strong><br>\nBuskerud&rsquo;s prehistoric park at Veien offers a reconstructed longhouse &ndash; a hall &ndash; and the county&rsquo;s archaeological museum with one of the largest burial grounds from Norway&rsquo;s prehistory.<br>\n<br>\nFor 1500 years, Veien was a sacred meeting ground where priestesses worshipped ancient gods, and kings ruled from their great halls.<br>\nMore than 60 generations were buried at the communal cemetery, many in large mounds, that stretches over 100-hectare.</p>\n\n<p>In the museum&rsquo;s permanent exhibition, you will wander through time from the end of the Ice Age through to the Viking Age and learn how humans used and shaped the landscape around them, and how the societies became increasingly complex through revolutionary innovations, such as agriculture, and long reaching networks, displayed through objects coming from far and wide.<br>\n<br>\nThe museum also houses temporary exhibitions throughout the year.<br>\nAudio guides make sure you can experience Veien at your own pace.<br>\nThere are activities for the whole family both in the exhibitions and by the longhouse such as using flint knives, archery and spear throwing.<br>\nFeel free to have a look at what the museum shop has to offer.<br>\n<br>\nThe caf&eacute; has a varied selection that can be enjoyed while taking in the breathtaking panoramic view, stretching from the grave field in the north to lake Tyri in the south.<br>\nWe are happy to organize group visits and tours of the museum and longhouse, as well as catering.<br>\nThe museum hosts a variety of activities throughout the year, including concerts and spectator events.<br>\n<br>\n<br>\n<strong>Groups:</strong><br>\nSeason: Groups are welcome all year, please phone to book a guided tour.<br>\nPrice:&nbsp; &nbsp; &nbsp;Groups (over 20 people): NOK 50,-&nbsp;per person<br>\n&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;Fee for guiding in the longhouse&nbsp;outside of opening hours: NOK 750,-<br>\nCapsity: Groups over 20 persons are recommended to devide in two.&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>',
+    city: 'Ringerike',
+    recid: 185184,
+    categories: [
+      {
+        primary: true,
+        subcatid: 161,
+        subcatname: 'Cultural Heritage',
+        catname: 'Attraction & Culture',
+        catid: 110
+      },
+      {
+        primary: false,
+        subcatid: 162,
+        subcatname: 'Museums & Galleries',
+        catname: 'Attraction & Culture',
+        catid: 110
+      }
+    ],
+    listingudfs_object: {
+      '44': {
+        listid: 2400,
+        name: 'Destination',
+        value: 'Hønefoss',
+        digits: 0,
+        fieldid: 44,
+        typeid: 7,
+        type: 'Dropdown',
+        value_raw: {
+          listid: 2400,
+          value: 'Hønefoss'
+        },
+        value_string: 'Hønefoss'
+      }
+    },
+    title: 'Veien Kulturminnepark',
+    loc: {
+      type: 'Point',
+      coordinates: [
+        10.22359,
+        60.17279
+      ]
+    },
+    primarycatid: 110,
+    id: '64d18db0f683efc833785136',
+    detailURL: '/listings/veien-kulturminnepark/185184/',
+    genericUrl: '/listings/veien-kulturminnepark/185184/',
+    url: '/listings/veien-kulturminnepark/185184/',
+    absolute_url: 'https://www.visitnorway.com/listings/veien-kulturminnepark/185184/',
+    isListing: true,
+    longitude: 10.22359,
+    latitude: 60.17279,
+    hasTripAdvisor: false,
+    hasYelp: false,
+    isVisible: true
+  },
+  {
+    order: 3,
+    type: 'museum',
+    _id: '64d18de6f683efc833786502',
+    description: 'The museum lies in Nesbyen. Follow the "Gude path", where they exhibit copied pictures from the painter Hans Gude. The path goes through Old Nes with beautiful houses from earlier times. It is easy to get to the museum from Geilo by car or train, it takes around one hour travelling.',
+    city: 'Nesbyen',
+    recid: 190631,
+    categories: [
+      {
+        primary: true,
+        subcatid: 160,
+        subcatname: 'Buildings & Monuments',
+        catname: 'Attraction & Culture',
+        catid: 110
+      },
+      {
+        primary: false,
+        subcatid: 161,
+        subcatname: 'Cultural Heritage',
+        catname: 'Attraction & Culture',
+        catid: 110
+      },
+      {
+        primary: false,
+        subcatid: 162,
+        subcatname: 'Museums & Galleries',
+        catname: 'Attraction & Culture',
+        catid: 110
+      },
+      {
+        primary: false,
+        subcatid: 226,
+        subcatname: 'Sightseeing',
+        catname: 'Tours & Sightseeing',
+        catid: 118
+      }
+    ],
+    listingudfs_object: {
+      '44': {
+        listid: 2181,
+        name: 'Destination',
+        value: 'Nesbyen',
+        digits: 0,
+        fieldid: 44,
+        typeid: 7,
+        type: 'Dropdown',
+        value_raw: {
+          listid: 2181,
+          value: 'Nesbyen'
+        },
+        value_string: 'Nesbyen'
+      }
+    },
+    title: 'Hallingdal Museum',
+    loc: {
+      type: 'Point',
+      coordinates: [
+        9.10899,
+        60.57088
+      ]
+    },
+    primarycatid: 110,
+    id: '64d18de6f683efc833786502',
+    detailURL: '/listings/hallingdal-museum/190631/',
+    genericUrl: '/listings/hallingdal-museum/190631/',
+    url: '/listings/hallingdal-museum/190631/',
+    absolute_url: 'https://www.visitnorway.com/listings/hallingdal-museum/190631/',
+    isListing: true,
+    longitude: 9.10899,
+    latitude: 60.57088,
+    hasTripAdvisor: false,
+    hasYelp: false,
+    isVisible: true
+  },
+  {
+    order: 4,
+    type: 'museum',
+    activeBoxId: 4,
+    listing: {
+      _id: '64d18d86f683efc83378415c',
+      description: '<p><strong>Gol Bygdemuseum</strong><br>\nHigh above the valley!<br>\nEnjoying fantastic views of Gol, the Skaga farm is situated on the hillside next to the college Hallingdal Folkeh&oslash;gskole. In the 1950s, Skaga&rsquo;s last farmer transferred ownership of the farm to the college, which turned it into a museum. The museum has later acquired additional farm buildings: a bathhouse, a mill, a summer farm, a feed store and a school house.<br>\n<br>\nThe flower meadow at Skaga is left untouched until mid-July. Visitors can then take part in traditional hay making with scythes and rakes. Groups can book guided tours outside opening hours.</p>\n\n<p>For updates and news, go to our <a href="http://www.hallingdal-museum.no" target="_blank">home page</a> and follow us on <a href="http://www.facebook.com/pages/Hallingdal-Museum/111113755608059?fref=ts" target="_blank">Facebook</a>.</p>\n\n<p>Welcome to Gol Bygdemuseum!</p>\n\n<p><br>\n<strong>One ticket &ndash; six museums</strong><br>\nIn the summer season, one ticket gives you access to all six museums for six days (Hallingdal museum Nesbyen, Hol Bygdemuseum, Hol old church, Dagali museum, &Aring;l Bygdamuseum, Hemsadal Bygdatun and Gol Bygdemuseum).<br>\n<br>\n<br>\n&nbsp;</p>',
+      city: 'Gol',
+      recid: 180925,
+      categories: [
+        {
+          primary: true,
+          subcatid: 160,
+          subcatname: 'Buildings & Monuments',
+          catname: 'Attraction & Culture',
+          catid: 110
+        },
+        {
+          primary: false,
+          subcatid: 162,
+          subcatname: 'Museums & Galleries',
+          catname: 'Attraction & Culture',
+          catid: 110
+        }
+      ],
+      listingudfs_object: {
+        '44': {
+          listid: 1167,
+          name: 'Destination',
+          value: 'Gol',
+          digits: 0,
+          fieldid: 44,
+          typeid: 7,
+          type: 'Dropdown',
+          value_raw: {
+            listid: 1167,
+            value: 'Gol'
+          },
+          value_string: 'Gol'
+        }
+      },
+      title: 'Gol rural museum',
+      loc: {
+        type: 'Point',
+        coordinates: [
+          8.91035,
+          60.70242
+        ]
+      },
+      primarycatid: 110,
+      id: '64d18d86f683efc83378415c',
+      detailURL: '/listings/gol-rural-museum/180925/',
+      genericUrl: '/listings/gol-rural-museum/180925/',
+      url: '/listings/gol-rural-museum/180925/',
+      absolute_url: 'https://www.visitnorway.com/listings/gol-rural-museum/180925/',
+      isListing: true,
+      longitude: 8.91035,
+      latitude: 60.70242,
+      hasTripAdvisor: false,
+      hasYelp: false,
+      isVisible: true
+    },
+    filter: {
+      categoryName: '',
+      categoryId: 0,
+      sortOrder: 0,
+      type: 'number',
+      fields: []
+    }
+  },
+  {
+    order: 5,
+    type: 'restaurant',
+    _id: '64d18ac4f683efc83377695f',
+    description: '<p>Fancy a snack? In a hurry? Then the snackbar Snakkbar at&nbsp;Hallingdal Feriepark/ Holiday Park is the best alternative for you.</p>\n\n<p>Modern fast food for those who wants something easy. This is also the right place if you are hungry but do not fancy a complete restaurant meal. You will surely become hungry after climbing around in play area Hurramegrundt and Hallingkastet...</p>\n\n<p>Brought food/packed lunch is not allowed.<br>\n<br>\n<strong>Open:</strong><br>\nClosed from October 1th&nbsp;</p>\n\n<p>Visit the Hallingdal Feriepark&#39;s website for information about opening hours. (<a href="https://feriepark.no/en/">www.feriepark.no/en/</a>)<br>\n<br>\nSnakkbar&nbsp;is located in the activity building.</p>',
+    city: 'Ål',
+    recid: 10073,
+    categories: [
+      {
+        primary: true,
+        subcatid: 176,
+        subcatname: 'Restaurants',
+        catname: 'Taste Norway',
+        catid: 114
+      },
+      {
+        primary: false,
+        subcatid: 171,
+        subcatname: 'Cafés & Diner',
+        catname: 'Taste Norway',
+        catid: 114
+      }
+    ],
+    listingudfs_object: {
+      '44': {
+        listid: 1269,
+        name: 'Destination',
+        value: 'Ål',
+        digits: 0,
+        fieldid: 44,
+        typeid: 7,
+        type: 'Dropdown',
+        value_raw: {
+          listid: 1269,
+          value: 'Ål'
+        },
+        value_string: 'Ål'
+      }
+    },
+    title: 'Snakkbar - Hallingdal Feriepark',
+    loc: {
+      type: 'Point',
+      coordinates: [
+        8.541,
+        60.62445
+      ]
+    },
+    primarycatid: 114,
+    id: '64d18ac4f683efc83377695f',
+    detailURL: '/listings/snakkbar-hallingdal-feriepark/10073/',
+    genericUrl: '/listings/snakkbar-hallingdal-feriepark/10073/',
+    url: '/listings/snakkbar-hallingdal-feriepark/10073/',
+    absolute_url: 'https://www.visitnorway.com/listings/snakkbar-hallingdal-feriepark/10073/',
+    isListing: true,
+    longitude: 8.541,
+    latitude: 60.62445,
+    hasTripAdvisor: false,
+    hasYelp: false,
+    isVisible: true
+  },
+  {
+    order: 6,
+    type: 'hotel',
+    _id: '64d18abef683efc833776787',
+    description: 'Family-friendly hotel situated in the middle of Geilo. New lounge, bar and library - all with new interior, open fireplaces and a good athmosphere. In the lounge, there is a play area for children. Thon Hotel Highland has 157 rooms, all refurbished during 2008, and two restaurants - where one is the á la carte restaurant, Cafe Leo. <br />From 12:00 til 18:00 they can offer you lovely dishes, bread and cakes from United Bakeries.<br /><br />Swimmingpool, sauna, jacuzzi and exercise room are available free for our staying guests. The hotel is one of the largest in Geilo with conference and banquet fascilities for up to 550 people.',
+    city: 'Hol',
+    recid: 9570,
+    categories: [
+      {
+        primary: true,
+        subcatid: 205,
+        subcatname: 'Hotels',
+        catname: 'Hotels & More',
+        catid: 23
+      },
+      {
+        primary: false,
+        subcatid: 119,
+        subcatname: 'Other Hotels',
+        catname: 'Meeting Venues',
+        catid: 20
+      }
+    ],
+    listingudfs_object: {
+      '44': {
+        listid: 621,
+        name: 'Destination',
+        value: 'Geilo',
+        digits: 0,
+        fieldid: 44,
+        typeid: 7,
+        type: 'Dropdown',
+        value_raw: {
+          listid: 621,
+          value: 'Geilo'
+        },
+        value_string: 'Geilo'
+      }
+    },
+    title: 'Highland Lodge',
+    loc: {
+      type: 'Point',
+      coordinates: [
+        8.21243,
+        60.53435
+      ]
+    },
+    primarycatid: 23,
+    id: '64d18abef683efc833776787',
+    detailURL: '/listings/highland-lodge/9570/',
+    genericUrl: '/listings/highland-lodge/9570/',
+    url: '/listings/highland-lodge/9570/',
+    absolute_url: 'https://www.visitnorway.com/listings/highland-lodge/9570/',
+    isListing: true,
+    longitude: 8.21243,
+    latitude: 60.53435,
+    hasTripAdvisor: false,
+    hasYelp: false,
+    isVisible: true
+  },
+  {
+    order: 7,
+    type: 'museum',
+    _id: '64d18d4af683efc833782b2f',
+    description: '<p>In Fekjo cultural heritage park there are many cultural relics from the prehistoric and historic times. The burial mounds in the area is from the Viking Age. We know this because 10 of the approximately 20 burial mounds were investigated in 1923. Items that were found in some of the mounds were all from 900s, ie Viking. Among the findings was&nbsp;a small ax blade of iron, a sewing needle and key to a casket.&nbsp;It is&nbsp;interesting that most of the investigated barrows were female graves.<br>\n<br>\nThe hiking trail of Ustedalsfjorden Round is going through this area, so it is easy accessible by foot.<br>\n<br>\n<strong>Coal pits</strong><br>\nWithin the Cultural Heritage Park was registered 7 coal pits and ironworks. Today there are only a few coal pits&nbsp;left and the&nbsp;ironworks plant is gone. The charcoal which was made in the pits, were either used in iron production or in the smithy on the farm. Throughout Ustedalen there&nbsp;has been an&nbsp;unusually high activity in iron production from&nbsp;both Viking and medieval times. The many coal pits and ironworks plants show that it was made more iron than was needed locally. Iron was probably an important commodity for people in Ustedalen in Iron Age and Middle Ages.<br>\n<br>\n<strong>Haybarn</strong><br>\nAt&nbsp;Fekjo&nbsp;there&nbsp;is&nbsp;an old hay barn and a barn. Until approx 80 years ago it was a&nbsp;mountain farm here. After mowing, hay was stored in the barn before it was driven to the farm with horse and sleigh in winter conditions. An old stone&nbsp;fence in the park is probably a distinction between hayfields and pastures.<br>\n<br>\nSwitched operation and grazing on Fekjo made an open landscape. After stiff operation ended, overgrown area gradually more and more again and another vegitasjonstype took over. In the heritage park one is seeking to lead the area back to the old culture landscape by cutting the grass and by letting sheep graze in the park in spring and autumn.<br>\n<br>\nIn Fekjo cultural&nbsp;heritage park you can also experience exciting landscape art.</p>',
+    city: 'Hol',
+    recid: 172545,
+    categories: [
+      {
+        primary: true,
+        subcatid: 161,
+        subcatname: 'Cultural Heritage',
+        catname: 'Attraction & Culture',
+        catid: 110
+      },
+      {
+        primary: false,
+        subcatid: 160,
+        subcatname: 'Buildings & Monuments',
+        catname: 'Attraction & Culture',
+        catid: 110
+      },
+      {
+        primary: false,
+        subcatid: 212,
+        subcatname: 'Vikings',
+        catname: 'Attraction & Culture',
+        catid: 110
+      },
+      {
+        primary: false,
+        subcatid: 226,
+        subcatname: 'Sightseeing',
+        catname: 'Tours & Sightseeing',
+        catid: 118
+      }
+    ],
+    listingudfs_object: {
+      '44': {
+        listid: 621,
+        name: 'Destination',
+        value: 'Geilo',
+        digits: 0,
+        fieldid: 44,
+        typeid: 7,
+        type: 'Dropdown',
+        value_raw: {
+          listid: 621,
+          value: 'Geilo'
+        },
+        value_string: 'Geilo'
+      }
+    },
+    title: 'Fekjo cultural heritage site',
+    loc: {
+      type: 'Point',
+      coordinates: [
+        8.14076,
+        60.52345
+      ]
+    },
+    primarycatid: 110,
+    id: '64d18d4af683efc833782b2f',
+    detailURL: '/listings/fekjo-cultural-heritage-site/172545/',
+    genericUrl: '/listings/fekjo-cultural-heritage-site/172545/',
+    url: '/listings/fekjo-cultural-heritage-site/172545/',
+    absolute_url: 'https://www.visitnorway.com/listings/fekjo-cultural-heritage-site/172545/',
+    isListing: true,
+    longitude: 8.14076,
+    latitude: 60.52345,
+    hasTripAdvisor: false,
+    hasYelp: false,
+    isVisible: true
+  },
+  {
+    order: 8,
+    type: 'museum',
+    _id: '64d18a9af683efc833775cd6',
+    description: '<p>With the old houses, stone fences, clearing piles, hayfields, irrigation systems, farming, paths, roads and bridges, the cultural landscape shows traces of the human activity in the valley. The farm yard at M&aring;b&oslash; is a small row yard with two small farms at the top of the valley. For the last hundred years, there have been two residential houses, two barns and a fire house along the old path that runs through the yard. Buildings, paths and bridges have been restored. The museum has turned the entire valley floor into an exhibition area, where 21 information boards convey a history of resource utilization and development in M&aring;b&oslash;dalen.</p>\n\n<p>If you wish to do a nice hike in this area, click <a href="https://hardangerfjord.com/en/eidfjord/attractions/mabo-museum-maboberget-mabo-museum-972703" target="_blank">here</a></p>',
+    city: 'Eidfjord',
+    recid: 7081,
+    categories: [
+      {
+        primary: true,
+        subcatid: 162,
+        subcatname: 'Museums & Galleries',
+        catname: 'Attraction & Culture',
+        catid: 110
+      },
+      {
+        primary: false,
+        subcatid: 160,
+        subcatname: 'Buildings & Monuments',
+        catname: 'Attraction & Culture',
+        catid: 110
+      },
+      {
+        primary: false,
+        subcatid: 161,
+        subcatname: 'Cultural Heritage',
+        catname: 'Attraction & Culture',
+        catid: 110
+      }
+    ],
+    listingudfs_object: {
+      '44': {
+        listid: 213,
+        name: 'Destination',
+        value: 'Øvre Eidfjord',
+        digits: 0,
+        fieldid: 44,
+        typeid: 7,
+        type: 'Dropdown',
+        value_raw: {
+          listid: 213,
+          value: 'Øvre Eidfjord'
+        },
+        value_string: 'Øvre Eidfjord'
+      }
+    },
+    title: 'Måbødalen Agricultural Countryside Museum',
+    loc: {
+      type: 'Point',
+      coordinates: [
+        7.20042,
+        60.41741
+      ]
+    },
+    primarycatid: 110,
+    id: '64d18a9af683efc833775cd6',
+    detailURL: '/listings/m%c3%a5b%c3%b8dalen-agricultural-countryside-museum/7081/',
+    genericUrl: '/listings/m%c3%a5b%c3%b8dalen-agricultural-countryside-museum/7081/',
+    url: '/listings/m%c3%a5b%c3%b8dalen-agricultural-countryside-museum/7081/',
+    absolute_url: 'https://www.visitnorway.com/listings/m%c3%a5b%c3%b8dalen-agricultural-countryside-museum/7081/',
+    isListing: true,
+    longitude: 7.20042,
+    latitude: 60.41741,
+    hasTripAdvisor: false,
+    hasYelp: false,
+    isVisible: true
+  },
+  {
+    order: 9,
+    type: 'museum',
+    _id: '64d18ab6f683efc83377650d',
+    description: '<p>Family friendly maritime museum emphasizing activities and open workshops. You will experience ropemaking, forging and wooden boat building. You can make wooden figures, make ropes, build small boats and learn about knots. Hire a traditional wooden rowing boat with life jackets and fishing gear. Exhibits, guided tours and maritime films. Cafe with homemade delicacies.</p>',
+    city: 'Kvam',
+    recid: 9002,
+    categories: [
+      {
+        primary: true,
+        subcatid: 162,
+        subcatname: 'Museums & Galleries',
+        catname: 'Attraction & Culture',
+        catid: 110
+      },
+      {
+        primary: false,
+        subcatid: 167,
+        subcatname: 'Family Activities',
+        catname: 'Family Fun',
+        catid: 111
+      }
+    ],
+    listingudfs_object: {
+      '44': {
+        listid: 793,
+        name: 'Destination',
+        value: 'Norheimsund',
+        digits: 0,
+        fieldid: 44,
+        typeid: 7,
+        type: 'Dropdown',
+        value_raw: {
+          listid: 793,
+          value: 'Norheimsund'
+        },
+        value_string: 'Norheimsund'
+      }
+    },
+    title: 'Hardanger Maritime Museum',
+    loc: {
+      type: 'Point',
+      coordinates: [
+        6.14822,
+        60.36585
+      ]
+    },
+    primarycatid: 110,
+    id: '64d18ab6f683efc83377650d',
+    detailURL: '/listings/hardanger-maritime-museum/9002/',
+    genericUrl: '/listings/hardanger-maritime-museum/9002/',
+    url: '/listings/hardanger-maritime-museum/9002/',
+    absolute_url: 'https://www.visitnorway.com/listings/hardanger-maritime-museum/9002/',
+    isListing: true,
+    longitude: 6.14822,
+    latitude: 60.36585,
+    hasTripAdvisor: false,
+    hasYelp: false,
+    isVisible: true
+  },
+  {
+    order: 10,
+    type: 'museum',
+    _id: '64d19051f683efc833794a93',
+    description: '<p>The core of the Gestapo museum is the prison cells with incisions covering the walls from the floor to the ceiling.&nbsp;</p>\n\n<p>We tend to use the saying &ldquo;If the walls could talk&rdquo;. Believe it or not but that&rsquo;s what the walls of the old Gestapo head quarter in Bergen actually do. The authentic inscriptions were written by tortured prisoners during WWII and later by Norwegian traitors and German war criminals locked up in the same cells after the war. The premises tell a rare and rich story about being imprisoned under changing conditions.</p>\n\n<p><strong>Exhibition </strong></p>\n\n<p>In the museum you can use the interactive screens and move along some of the prisoners` itineraries starting at the Gestapo head quarter in Bergen through camps in Germany and back home after the war.</p>\n\n<p>On the screens the prisoners own tales are compared with the torturers explanations on personal participation in the act of torturing.</p>\n\n<p>In the museum you can also see some of the authentic tools used when torturing prisoners in the Gestapo head quarter.</p>\n\n<p>If you close the cell door behind You and light up the walls with a available flashlight at sight, You can take a close look at the incisions. At the same time you will hear the prisoners own stories from hidden speakers. The walls speaks and create a physical presence of horror.</p>\n\n<p>The exhibition also addresses topics related to the role of woman in war, torture methods, war criminals and betrayal. Through the exhibitions we realize that freedom do not appear by it self, but is something we need to address and create every day.</p>\n\n<p>In the rotunda southwest of the building a monument in honor of the tortured is raised. Three memorial stones is laid at the sidewalk east side of the building in memory of those who threw themselves out from the building and ended their lives there. In fear of giving in on the torture and exposing other freedom fighters the gave their lives to protect and secure others.</p>\n\n<p>You decide for Your self how deep into the topic you want to go. <strong>The museum is suitable for young people over 13 and adults.</strong></p>\n\n<p>The museum guides are ready to answer questions and are happy to elaborate.</p>\n\n<p><strong>Location </strong></p>\n\n<p>The &ldquo;house of horror&rdquo; is located in the heart of Bergen and is located in close range to Den Nationale Scene (the theater).&nbsp;The entrance is located at Chr. Michelsens gate 10. Call on the intercom &ldquo;Gestapomuseet&rdquo;. At the entrance at Veiten 3 You can enter the museum by elevator.</p>\n\n<p>The &ldquo;House of Horror&rdquo; is a monumental building, easy to spot. Traveling by car you can park in Klostergarasjen, with its exit right next to the museum and famous Bergen &ldquo;piazza&rdquo; Torvalmenningen<em>. </em></p>\n\n<p>Restaurants and all types of services is of course located nearby in the heart of Bergen.</p>\n\n<p>&nbsp;</p>',
+    city: 'Bergen',
+    recid: 227437,
+    categories: [
+      {
+        primary: true,
+        subcatid: 162,
+        subcatname: 'Museums & Galleries',
+        catname: 'Attraction & Culture',
+        catid: 110
+      }
+    ],
+    listingudfs_object: {
+      '44': {
+        listid: 1948,
+        name: 'Destination',
+        value: 'Bergen',
+        digits: 0,
+        fieldid: 44,
+        typeid: 7,
+        type: 'Dropdown',
+        value_raw: {
+          listid: 1948,
+          value: 'Bergen'
+        },
+        value_string: 'Bergen'
+      }
+    },
+    title: 'The Gestapo museum - «House of horror»',
+    loc: {
+      type: 'Point',
+      coordinates: [
+        5.32087,
+        60.39273
+      ]
+    },
+    primarycatid: 110,
+    id: '64d19051f683efc833794a93',
+    detailURL: '/listings/the-gestapo-museum-%c2%abhouse-of-horror%c2%bb/227437/',
+    genericUrl: '/listings/the-gestapo-museum-%c2%abhouse-of-horror%c2%bb/227437/',
+    url: '/listings/the-gestapo-museum-%c2%abhouse-of-horror%c2%bb/227437/',
+    absolute_url: 'https://www.visitnorway.com/listings/the-gestapo-museum-%c2%abhouse-of-horror%c2%bb/227437/',
+    isListing: true,
+    longitude: 5.32087,
+    latitude: 60.39273,
+    hasTripAdvisor: false,
+    hasYelp: false,
+    isVisible: true
+  }
+]

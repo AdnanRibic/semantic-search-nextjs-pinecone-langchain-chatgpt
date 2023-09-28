@@ -29,10 +29,13 @@ export const queryPineconeVectorStoreAndQueryLLM = async (
   console.log(`Found ${queryResponse.matches.length} matches...`);
   // 6. Log the question being asked
   console.log(`Asking question: ${question}...`);
+  // 7. Create an OpenAI instance and load the QAStuffChain
+  const llm = new OpenAI({});
+  const chain = loadQAStuffChain(llm);
+  let newQuestion = `You are very polite and helpfull. First write that you are a trip planning assistant and then you have to answer on a this: ${question}. You will answer 
+  making a list of destinations where type equals to musem. You will first suggest 4 destinations of type musem, then you will suggest a restauran, then you will suggest a hote, and then you will suggest 4 more destinations of type musem for the next day. You have to write their 
+  title without adding recid to the title. It has to follow the order from order propertie. At the end you will generate a link with this format where you have to follow the order: http://localhost:3000?ids={"listing":["recid","recid",..."recid"]}.`
   if (queryResponse.matches.length) {
-    // 7. Create an OpenAI instance and load the QAStuffChain
-    const llm = new OpenAI({});
-    const chain = loadQAStuffChain(llm);
     // 8. Extract and concatenate page content from matched documents
     const concatenatedPageContent = queryResponse.matches
       .map((match) => match.metadata.pageContent)
@@ -40,14 +43,17 @@ export const queryPineconeVectorStoreAndQueryLLM = async (
     // 9. Execute the chain with input documents and question
     const result = await chain.call({
       input_documents: [new Document({ pageContent: concatenatedPageContent })],
-      question: question,
+      question: newQuestion,
     });
     // 10. Log the answer
     console.log(`Answer: ${result.text}`);
     return result.text
   } else {
-    // 11. Log that there are no matches, so GPT-3 will not be queried
-    console.log('Since there are no matches, GPT-3 will not be queried.');
+    const result = await chain.call({
+      question: question,
+    });
+    console.log(`Answer: ${result.text}`);
+    return result.text
   }
 };
 export const createPineconeIndex = async (
@@ -72,7 +78,7 @@ export const createPineconeIndex = async (
       },
     });
     // 6. Log successful creation
-      console.log(`Creating index.... please wait for it to finish initializing.`);
+    console.log(`Creating index.... please wait for it to finish initializing.`);
     // 7. Wait for index initialization
     await new Promise((resolve) => setTimeout(resolve, timeout));
   } else {
@@ -114,7 +120,7 @@ export const updatePinecone = async (client, indexName, docs) => {
     );
     // 7. Create and upsert vectors in batches of 100
     const batchSize = 100;
-    let batch:any = [];
+    let batch: any = [];
     for (let idx = 0; idx < chunks.length; idx++) {
       const chunk = chunks[idx];
       const vector = {
